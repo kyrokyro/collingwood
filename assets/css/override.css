@@ -105,6 +105,6 @@ a.text-gold:hover {
     color: #877851 !important
 }
 
-.card > .card-body > h6 {
+.module-package-title {
     min-height: 50px;
 }
