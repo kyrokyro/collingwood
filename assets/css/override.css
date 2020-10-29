@@ -10,11 +10,18 @@
     text-align: center;
 }
 
+body,
+p {
+    font-family: 'Poppins', sans-serif !important;
+    font-weight: 400 !important;
+    font-size: 0.95em;
+}
+
 h1,
 h2,
 h3 {
     font-family: 'Poppins', sans-serif !important;
-    font-weight: 700 !important;
+    font-weight: 600 !important;
 }
 
 /* New Classes */
@@ -27,7 +34,7 @@ h3 {
 }
 
 .poppins-weight-2 {
-    font-weight: 700 !important;
+    font-weight: 600 !important;
 }
 
 .poppins-weight-3 {
