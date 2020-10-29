@@ -94,7 +94,7 @@ h3 {
 }
 
 .package-select-title-lg {
-    font-size: 130% !important;
+    font-size: 140% !important;
 }
 
 .package-select-link {
@@ -138,6 +138,7 @@ a.text-gold:hover {
 .module-package-title {
     min-height: 50px;
     font-weight: 600 !important;
+    font-size: 120%;
 }
 
 .benefit-icon {
