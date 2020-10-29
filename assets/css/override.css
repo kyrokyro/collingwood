@@ -137,6 +137,7 @@ a.text-gold:hover {
 
 .module-package-title {
     min-height: 50px;
+    font-weight: 600 !important;
 }
 
 .benefit-icon {
